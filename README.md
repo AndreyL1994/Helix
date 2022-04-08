@@ -13,6 +13,4 @@ ____
 15 24 25 20 7    
 14 23 22 21 8    
 13 12 11 10 9    
-____
-## :on: Running
-$ python alien_invasion.py
+
